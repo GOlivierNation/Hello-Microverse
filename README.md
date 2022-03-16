@@ -1,8 +1,5 @@
-# Hello-Microverse
-
-
 # Project Name
--Microverse Hello
+-Hello Microverse
 > One paragraph statement about the project.
 
 ![screenshot](./photos/hello.png)
