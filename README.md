@@ -16,7 +16,7 @@ Additional description about the project and its features.
 To get a local copy up and running follow these simple example steps.
 
 ```
-git clone git@github.com:GOlivierNation/HELLO-Microverse.git
+git clone git@github.com:GOlivierNation/Hello-Microverse.git
 
 cd HELLO-Microverse
 
